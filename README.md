@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:339933&height=220&section=header&text=Adri%C3%A1n%20Petkov&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full%20Stack%20when%20needed&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/adri%C3%A1npetkov-08251928a">
+<a href="[https://www.linkedin.com/in/adri%C3%A1npetkov-08251928a](https://www.linkedin.com/in/adri%C3%A1n-petkov-08251928a/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:nikodrian2006@gmail.com">
