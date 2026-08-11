@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=339933&center=true&vCenter=true&width=650&lines=Building+APIs+with+Node.js+%2B+Express+%2B+TypeScript;PostgreSQL+%26+Prisma+ORM+specialist;Solo+Developer+%40+YGRA;AWS+Certified+Developer+Associate+(in+progress)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=339933&center=true&vCenter=true&width=650&lines=Building+APIs+with+Node.js+%2B+Express+%2B+TypeScript;PostgreSQL+%26+Prisma+ORM;Solo+Developer+%40+YGRA;AWS+Certified+Developer+Associate+(in+progress)" alt="Typing SVG" />
 
 </div>
 
@@ -163,7 +163,7 @@ fun_fact:    "Went from SAP ERPs & IT support to full ownership of a codebase"
 <a href="mailto:nikodrian2006@gmail.com">
   <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/adri%C3%A1npetkov-08251928a">
+<a href="https://www.linkedin.com/in/adri%C3%A1n-petkov-08251928a/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
