@@ -96,9 +96,6 @@ fun_fact:    "Went from SAP ERPs & IT support to full ownership of a codebase"
 - Replaced Tesseract.js with PaddleOCR after finding its accuracy insufficient for real-world receipts.
 - Secured server-side images with Multer + S3 + IAM + private signed URLs instead of public storage.
 - Prevented duplicate/inconsistent payments in group expenses using Prisma database transactions.
-
-> 🔗 *Add the repository link here once it's public*
-
 <br/>
 
 ## 💼 Experience
@@ -154,7 +151,8 @@ fun_fact:    "Went from SAP ERPs & IT support to full ownership of a codebase"
 
 - **Web Application Development** — Sagrado Corazón Jesuitas (2024 – 2026)
 - **Microcomputer Systems and Networks** — Sagrado Corazón Jesuitas (2022 – 2024)
-- TypeScript for Developers · AWS Serverless APIs & Apps · AWS Certified Developer Associate *(in progress)*
+- TypeScript for Developers · AWS Serverless APIs & Apps
+- AWS Certified Developer Associate *(in progress)*
 
 <br/>
 
